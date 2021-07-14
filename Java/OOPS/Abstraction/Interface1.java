@@ -11,6 +11,6 @@ public void draw(){System.out.println("drawing circle");}
 //Using interface: by third user  
 class Interface1{  
 public static void main(String args[]){  
-Drawable d=new Circle();//In real scenario, object is provided by method e.g. getDrawable()  
+Drawable d=new Rectangle();//In real scenario, object is provided by method e.g. getDrawable()  
 d.draw();  
 }}  

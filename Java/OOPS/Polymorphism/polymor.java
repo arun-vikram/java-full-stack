@@ -1,4 +1,4 @@
-public class polymor{
+ public class polymor{
 
 
      public int  add(int i,int j){

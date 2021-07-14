@@ -1,4 +1,4 @@
-public class Test{
+public class accessTest{
     int a; // default access
     public int b;//public access
 

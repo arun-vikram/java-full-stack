@@ -12,7 +12,7 @@ public class arun {
         System.out.println(i);
         System.out.println(b);
         System.out.println("Hi, this is my first program  f1=" + f1 );
-        System.out.println("Hi, this is my first program ");
+        System.out.println("Hi, this is my first program " +i );
     }
 
 }

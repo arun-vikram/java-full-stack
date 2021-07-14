@@ -4,7 +4,7 @@ public class Continue {
     while (i < 10) {
       if (i == 4) {
         i++;
-        continue;
+        break;
       }
       System.out.println(i);
       i++;
